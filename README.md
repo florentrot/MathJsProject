@@ -1,0 +1,2 @@
+# MathJsProject
+Simple JS project
